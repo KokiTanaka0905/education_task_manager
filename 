@@ -1,0 +1,32 @@
+[33mcommit c887793c51f5a81c0e9e5da1fb7b0f38995e6b69[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KokiTanaka0905 <stl.tanakakouki@gmail.com>
+Date:   Sat Dec 9 11:59:25 2017 +0900
+
+    README.md changed.
+
+[33mcommit 342756770e005f73aaf186eadf8e36a6ffab65f8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b2e4d32 69c9613
+Author: odahara <odahara@ml.stlabj.co.jp>
+Date:   Fri Nov 25 23:54:49 2016 +0900
+
+    Merge branch 'master' of https://github.com/odasusu/education_task_manager.git
+
+[33mcommit b2e4d32e8c9b82e5cd32f3b612c71fb9391b26c0[m
+Author: odahara <odahara@ml.stlabj.co.jp>
+Date:   Fri Nov 25 23:54:38 2016 +0900
+
+    SQLiteの処理を追加
+    
+    SQL Serverの処理を削除してSQLiteに対応するため
+
+[33mcommit 69c96132f3b01774968b6ba5da69a99371bd1b69[m
+Author: Susumu Odahara <odasusu@gmail.com>
+Date:   Fri Nov 25 22:28:02 2016 +0900
+
+    Create README.md
+
+[33mcommit 1821a36d3b4276033188847175b5cb5932f3e722[m
+Author: odahara <odahara@ml.stlabj.co.jp>
+Date:   Fri Nov 25 22:24:25 2016 +0900
+
+    first commit
